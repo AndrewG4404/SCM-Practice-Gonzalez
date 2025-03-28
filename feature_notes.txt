@@ -1,1 +1,2 @@
 This file outlines a future feature that will allow users to export data in PDF format.
+UI improvement suggestion: Add a dark mode toggle.
