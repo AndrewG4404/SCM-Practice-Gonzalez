@@ -8,3 +8,7 @@ Software Configuration Management (SCM) is the process of systematically managin
 ## How GitHub Helps
 
 GitHub is a cloud-based platform that provides version control using Git. It allows developers to collaborate, track changes, manage branches, and ensure code integrity efficiently.
+
+## Change Log
+- Added feature notes
+- Logged a simulated bug fix
